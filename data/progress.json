@@ -1,0 +1,33 @@
+{
+  "high_score": 56,
+  "total_slices": 58,
+  "total_games": 2,
+  "stars_earned": 25,
+  "unlocked_levels": [
+    1,
+    2
+  ],
+  "level_stars": {
+    "1": 3,
+    "2": 0,
+    "3": 0,
+    "4": 0,
+    "5": 0
+  },
+  "completed_missions": [],
+  "mission_stars": {},
+  "unlocked_achievements": [
+    "first_slice",
+    "combo_master",
+    "bomb_dodger",
+    "fruit_beginner"
+  ],
+  "settings": {
+    "music_volume": 0.6,
+    "sfx_volume": 0.8,
+    "music_on": true,
+    "sfx_on": true,
+    "fullscreen": false,
+    "difficulty": "Normal"
+  }
+}
